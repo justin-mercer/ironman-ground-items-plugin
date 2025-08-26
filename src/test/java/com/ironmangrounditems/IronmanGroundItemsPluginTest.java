@@ -1,4 +1,6 @@
-package com.example;
+package com.ironmangrounditems;
+
+import com.ironmangrounditems.IronmanGroundItemsPluginTest;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

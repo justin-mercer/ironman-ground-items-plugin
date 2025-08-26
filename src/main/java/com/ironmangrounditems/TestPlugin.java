@@ -1,4 +1,4 @@
-package com.example;
+package com.ironmangrounditems;
 
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
